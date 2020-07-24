@@ -6,8 +6,8 @@ Learn with me as I proceed from the basics of image processing using [OpenCV](ht
 
 #### NOTE: These tutorials are still in development.
 
-#### Converting colour images to gray scale using OpenCv and [matplotlib](https://matplotlib.org/) 
-##### Reading an image 
+#### <ins>**Converting colour images to gray scale using OpenCV and [matplotlib](https://matplotlib.org/)**</ins> 
+#### Reading an image 
 The function **cv2.imread()** to read an image. It takes two arguments 
 
 ```cv.imread("image_name",X)```

@@ -1,11 +1,21 @@
 ## Image Processing Tutorials using OpenCV 
 
-#### NOTE: These tutorials are still in development. Sujjest changes/ ideas/ here
-
 Welcome to the amazing universe of image processing.
 Learn with me as I proceed from the basics of image processing using [OpenCV](https://opencv.org/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+#### NOTE: These tutorials are still in development.
+
+#### Converting colour images to gray scale using OpenCv and [matplotlib](https://matplotlib.org/) 
+##### Reading an image 
+The function **cv2.imread()** to read an image. It takes two arguments 
+
+```cv.imread("image_name",X)```
+
+where X==1  -->  Loads a color image
+where X==0  -->  Loads image in grayscale mode
+where X==-1 -->  Loads image as such including alpha channel 
+
 
 ### Markdown
 

@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Image Processing Tutorials using OpenCV 
 
-You can use the [editor on GitHub](https://github.com/gersondi/gerson-dias.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### NOTE: These tutorials are still in development. Sujjest changes/ ideas/ here
+
+Welcome to the amazing universe of image processing.
+Learn with me as I proceed from the basics of image processing using [OpenCV](https://opencv.org/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

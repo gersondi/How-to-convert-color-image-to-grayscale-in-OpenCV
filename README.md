@@ -1,1 +1,1 @@
-# [gerson-dias.github.io](https://gerson-dias.github.io)
+# [My_blog](https://gersondi.github.io/How-to-convert-color-image-to-grayscale-in-OpenCV/)

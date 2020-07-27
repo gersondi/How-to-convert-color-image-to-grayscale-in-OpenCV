@@ -11,7 +11,6 @@ Learn with me as I proceed from the basics of image processing using [OpenCV](ht
 The function **cv2.imread()** to read an image. It takes two arguments 
 
 ```cv.imread("image_name",X)```
-
 where X==1  -->  Loads a color image
 where X==0  -->  Loads image in grayscale mode
 where X==-1 -->  Loads image as such including alpha channel 

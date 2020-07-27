@@ -1,1 +1,1 @@
-# [My_blog](https://gersondi.github.io/How-to-convert-color-image-to-grayscale-in-OpenCV/)
+ <a href="https://gersondi.github.io/How-to-convert-color-image-to-grayscale-in-OpenCV/" target="_blank">My Blog</a>)

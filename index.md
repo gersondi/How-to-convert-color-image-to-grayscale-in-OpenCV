@@ -15,6 +15,10 @@ where X==1  -->  Loads a color image
 where X==0  -->  Loads image in grayscale mode
 where X==-1 -->  Loads image as such including alpha channel 
 
+The function **cv.imwrite()** to read an image. It takes two arguments
+
+```	cv.imwrite(	filename, img[, params]	)```
+
 
 ### Markdown
 

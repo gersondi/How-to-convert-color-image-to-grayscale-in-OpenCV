@@ -4,7 +4,7 @@ Welcome to the amazing universe of image processing.
 Learn with me as I proceed from the basics of image processing using [OpenCV](https://opencv.org/).
 
 
-#### NOTE: These tutorials are still in development.
+#### NOTE: These tutorials are still in development
 
 #### <ins>**Converting colour images to gray scale using OpenCV and [matplotlib](https://matplotlib.org/)**</ins> 
 #### Reading an image 
@@ -17,11 +17,10 @@ where X==-1 -->  Loads image as such including alpha channel
 
 The function **cv.imwrite()** to read an image. It takes two arguments
 
-```	cv.imwrite(filename, img[, params]	)```
+```	cv.imwrite(filename, img[, params]	)``` 
 
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
